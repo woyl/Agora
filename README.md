@@ -69,3 +69,5 @@ Or use `Gradle` to build and run.
 ## License
 
 The MIT License (MIT).
+
+这个是声网的demo，这里只是拿来作为笔记参考！如有问题，联系我。。。
